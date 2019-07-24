@@ -1,0 +1,9 @@
+{
+  "projects": [ "Sitecore.MessageBus.Plugin"],
+  "sdk": {
+    "version": "2.1.202"
+  },
+  "msbuild-sdks": {
+        "Sitecore.Framework.Runtime.Build": "1.1.0"
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Sitecore>
+      <MessageBus>
+          <SqlConnection>
+              <ConnectionString>Data Source=.\MSSQL2016;Initial Catalog=Sitecore_Messaging;User ID=messaging_user;Password=messaging_user_password</ConnectionString>
+              <QueueName>SitecoreHost_Queue</QueueName>
+          </SqlConnection>
+      </MessageBus>
+  </Sitecore>
+</Settings>
